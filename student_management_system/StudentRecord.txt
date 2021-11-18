@@ -1,0 +1,10 @@
+12345678909,john,lee,23,john@gmail.com,php
+13247659568,lucy,li,24,lucy123@gmail.com,python
+14527483562,robert,tyler,25,robo@gmail.com,java
+42316548904,larry,james,35,larry@gmail.com,kotlin
+39276489241,Bella,Rios,25,bella@gmail.com,python
+37648902341,elison,tyler,36,eli@gmail.com,python
+54763876123,James,Bond,32,bond@gmail.com,python
+53826549674,Haryy,Potter,17,harry@gmail.com,python
+18724563789,jaden,anow,17,jaden@gmail.com,java
+26473652865,Thomas,Edison,36,thomas@yahoo.com,java
